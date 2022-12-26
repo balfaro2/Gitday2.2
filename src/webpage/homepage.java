@@ -6,4 +6,6 @@ public class homepage {
     //extra changed added
     //out
 
+    //promotions added
+
 }
